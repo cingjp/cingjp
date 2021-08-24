@@ -120,3 +120,123 @@ services:
       - "/app/p2pclient"
       - "-l"
       - "cingjp@163.com"
+  Peer2Profit11:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit12:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit13:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit14:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit15:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit16:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit17:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit18:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit19:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
+  Peer2Profit20:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: enwaiax/peer2profit
+    restart: unless-stopped
+    environment: 
+      - email=cingjp@163.com
+    command: 
+      - "/app/p2pclient"
+      - "-l"
+      - "cingjp@163.com"
